@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: github__issues
+    description: >
+      Basic information about issues as well as additional fields for things like assignees, projects, labels and open time
